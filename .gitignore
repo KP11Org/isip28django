@@ -1,4 +1,4 @@
 /env
 00*.py
-*/__pycache__
+**/__pycache__
 *.sqlite3
